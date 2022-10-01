@@ -1,0 +1,12 @@
+
+
+# train and val datasets (image directory or *.txt file with image paths)
+train: /content/drive/MyDrive/newCoco/customTrain.txt  #
+val: /content/drive/MyDrive/newCoco/customValidation.txt  # 5k images
+test: /content/drive/MyDrive/newCoco/customValidation.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+# number of classes
+nc: 5
+
+# class names
+names: ['cup','lamp','face','bag','mobile']
+

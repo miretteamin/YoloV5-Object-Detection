@@ -1,0 +1,15 @@
+/content/drive/MyDrive/newCoco/CustomDataset/image6.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image63.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image25.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image20.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image1.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image68.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image59.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image93.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image4.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image85.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image106.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image108.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image109.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image110.jpg
+/content/drive/MyDrive/newCoco/CustomDataset/image111.jpg
